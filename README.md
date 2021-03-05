@@ -14,3 +14,8 @@ I don't think anyone would, but if anyone wants to cite this lecture note, use
    note={Lecture Note for CSCI-UA.0473-001} 
 }
 ```
+
+
+blog
+
+https://sites.google.com/site/deepernn/home/blog/lecturenotebriefintroductiontomachinelearningwithoutdeeplearning
