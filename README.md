@@ -19,3 +19,5 @@ I don't think anyone would, but if anyone wants to cite this lecture note, use
 blog
 
 https://sites.google.com/site/deepernn/home/blog/lecturenotebriefintroductiontomachinelearningwithoutdeeplearning
+
+https://tensorflow.blog/tag/%EC%A1%B0%EA%B2%BD%ED%98%84/
